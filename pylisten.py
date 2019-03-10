@@ -2,6 +2,7 @@
 #
 # HTTP listener
 # Louis Scianni 2/23/2018
+# Released under the GPL-v2
 
 import http.server
 import socketserver
